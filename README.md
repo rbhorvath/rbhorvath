@@ -52,4 +52,4 @@
 
 ## 📄 Resume
 
-[Download my Resume (PDF)](https://github.com/rbhorvath/rbhorvath/blob/main/docs/rafaelhorvath.pdf)
+[Download my Resume (PDF)](https://github.com/rbhorvath/rbhorvath/blob/main/docs/Rafael_Horvath_Resume.pdf)
