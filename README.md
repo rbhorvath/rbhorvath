@@ -20,7 +20,7 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/robot_framework.png" alt="Robot Framework" title="Robot Framework" />
+  <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/robot_framework.png" alt="Robot Framework" title="Robot Framework" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure DevOps" />
 
