@@ -4,7 +4,7 @@
 
 ### 🧪 QA Engineer / Quality Assurance Specialist
 
-🔹 5+ years of experience in software quality and automation  
+🔹 6+ years of experience in software quality and automation  
 🔹 Skilled in Selenium, Playwright, Java, JavaScript/TypeScript  
 🔹 Experienced with REST API testing and CI/CD pipelines  
 🔹 Passionate about clean code, efficiency, and quality-driven development
