@@ -42,10 +42,6 @@
   <a href="https://github.com/rbhorvath/robot-automation" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rbhorvath&repo=robot-automation&theme=github_dark" alt="robot-automation repo" />
   </a>
-
-  <a href="https://github.com/rbhorvath/veggie-cart-automation" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rbhorvath&repo=veggie-cart-automation&theme=github_dark" alt="veggie-cart-automation repo" />
-  </a>
   
 </p>
 
