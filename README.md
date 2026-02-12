@@ -29,9 +29,9 @@
 
 ### 🚀 Featured Projects
 
-[![playwright-automation](https://img.shields.io/badge/playwright--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/playwright-automation)
-[![api-automation](https://img.shields.io/badge/api--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/api-automation)
-[![robot-automation](https://img.shields.io/badge/robot--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/robot-automation)
+[![playwright-automation](https://img.shields.io/badge/playwright--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/playwright-automation)  
+[![api-automation](https://img.shields.io/badge/api--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/api-automation)  
+[![robot-automation](https://img.shields.io/badge/robot--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/robot-automation)  
 
 ### 💬 Get in touch
 
