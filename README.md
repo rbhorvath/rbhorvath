@@ -29,21 +29,9 @@
 
 ### 🚀 Featured Projects
 
-<p align="left">
-
-  <a href="https://github.com/rbhorvath/playwright-automation" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rbhorvath&repo=playwright-automation&theme=github_dark" alt="playwright-automation repo" />
-  </a>
-
-  <a href="https://github.com/rbhorvath/api-automation" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rbhorvath&repo=api-automation&theme=github_dark" alt="api-automation repo" />
-  </a>
-
-  <a href="https://github.com/rbhorvath/robot-automation" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rbhorvath&repo=robot-automation&theme=github_dark" alt="robot-automation repo" />
-  </a>
-  
-</p>
+[![playwright-automation](https://img.shields.io/badge/playwright--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/playwright-automation)
+[![api-automation](https://img.shields.io/badge/api--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/api-automation)
+[![robot-automation](https://img.shields.io/badge/robot--automation-View%20Repo-0A66C2?style=for-the-badge&logo=github)](https://github.com/rbhorvath/robot-automation)
 
 ### 💬 Get in touch
 
